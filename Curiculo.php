@@ -1,6 +1,6 @@
-<!DoCTYPE html>
+<!DOCTYPE html>
 
-<html lang="Pt-pt">
+<html lang="pt-pt">
 
 
 <HEAD>
@@ -16,12 +16,11 @@
 <body style="color:#181407;font-family: verdana,geneva,tahoma,Sans-serif; font-weight: normal;">
 	<figure style="float: left;"> 
 
-	<img src="eu.jpg;"> 
+	<img src="eu.jpg" alt="minha fotografia"> 
 
-	<figcaption></figcaption>
 
 	 </figure> 
-<DIV style ="margin-right:auto; :margin-left: auto;width: 1060px;background-color: #00FFFF;border-bottom: double;">
+<div style ="margin-right:auto; :margin-left: auto;width: 1060px;background-color: #00FFFF;border-bottom: double;">
 
 
 
@@ -30,7 +29,7 @@
 
 
 
-</DIV>
+</div>
 <div style="background-color:#d77b68;" >
 	<h2>Dados Pessoais</h2>
 <span>Idade: 22 </span> <br>
@@ -59,7 +58,7 @@
 
 <h2>Habilidades</h2>
 <ul>
-	<li> Boa organizacao e responsabilidade</li>
+	<li>Boa organizacao e responsabilidade</li>
 	<li>Capaz de trabalhar em equipe</li>
 	<li>Bom relacionamennto com colegas</li>
     <li>Disponibilidade imediata</li>
@@ -70,7 +69,7 @@
 <h2>Contactos</h2>
 <ul>
 <li>842078450</li>
-<li>Eltonnjulio@Outlook.com</li>
+<li>eltonnjulio@Outlook.com</li>
 </ul>
 
 </div>
